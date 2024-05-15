@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tomato/static/css/main.d5167518.css",
+    "main.js": "/tomato/static/js/main.b692aa98.js",
+    "static/js/787.b1af5461.chunk.js": "/tomato/static/js/787.b1af5461.chunk.js",
+    "static/media/sound2.wav": "/tomato/static/media/sound2.9a20887c9db70ee5c972.wav",
+    "static/media/logo.png": "/tomato/static/media/logo.5977165d10817946ebf0.png",
+    "static/media/SFUIDisplay-Thin.woff2": "/tomato/static/media/SFUIDisplay-Thin.f3e3310d830ec276a9f9.woff2",
+    "static/media/SFUIDisplay-Light.woff2": "/tomato/static/media/SFUIDisplay-Light.60241fa4b412694abb65.woff2",
+    "static/media/SFUIDisplay-Medium.woff2": "/tomato/static/media/SFUIDisplay-Medium.90312d015521ff21cc61.woff2",
+    "static/media/SFUIDisplay-Bold.woff2": "/tomato/static/media/SFUIDisplay-Bold.de06fd537f47d93309ef.woff2",
+    "static/media/SFUIDisplay-Regular.woff2": "/tomato/static/media/SFUIDisplay-Regular.d5b1bd49ba459767871a.woff2",
+    "index.html": "/tomato/index.html",
+    "main.d5167518.css.map": "/tomato/static/css/main.d5167518.css.map",
+    "main.b692aa98.js.map": "/tomato/static/js/main.b692aa98.js.map",
+    "787.b1af5461.chunk.js.map": "/tomato/static/js/787.b1af5461.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5167518.css",
+    "static/js/main.b692aa98.js"
+  ]
+}
